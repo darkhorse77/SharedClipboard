@@ -1,0 +1,2 @@
+# SharedClipboard
+Тестовое задание
